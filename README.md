@@ -1,2 +1,2 @@
 # ContrastiveLearner
-An implementation of the Contrastive Learning based DenseNet model for CXR images
+An implementation of the Contrastive Learning based DenseNet model for CXR images. This implementation takes reference from the ["Improving Fairness of Automated Chest X-ray Diagnosis by Contrastive Learning"](https://arxiv.org/pdf/2401.15111v1.pdf) paper and aims to implement it for Chest X-Ray Images for enhancing fairness of the model, evauluated via the Margin Ranking Loss function.
